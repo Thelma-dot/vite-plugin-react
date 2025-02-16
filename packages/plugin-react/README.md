@@ -1,5 +1,5 @@
 # @vitejs/plugin-react [![npm](https://img.shields.io/npm/v/@vitejs/plugin-react.svg)](https://npmjs.com/package/@vitejs/plugin-react)
-
+ 
 The default Vite plugin for React projects.
 
 - enable [Fast Refresh](https://www.npmjs.com/package/react-refresh) in development (requires react >= 16.9)
